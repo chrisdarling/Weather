@@ -1,0 +1,65 @@
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+#weatherApp {
+	color: #fff !important;
+	margin-top: 65px;
+	display: none;
+
+}
+
+#main-icon {
+	font-size: 16em;
+
+}
+
+#bottom-row {
+	margin-bottom: 40px;
+}
+
+.forecast-icon {
+	font-size: 1.2em;
+}
+
+.sub-icon {
+	font-size: 2em;
+}
+
+.bottom-col {
+	margin-top: 40px;
+}
+
+
+
+.active-btn {
+	background: #fff !important;
+	color: black !important;
+}
+
+#search{
+    display:block;
+    text-align:center;
+}
+
+.forecast-table table td, table th {
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+}
+
+table th {
+	font-size: 1.2em;
+}
+
+#circle {
+	position: relative;
+	margin-top: 65px;
+}
+
+body {
+	
+	background-color: #50A6C2 !important;
+	background-repeat: no-repeat;
+
+
+}
