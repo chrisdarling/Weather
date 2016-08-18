@@ -13,6 +13,8 @@ app.controller('weatherCtrl', function($scope, $http) {
 		showIcon();
 		$scope.finalLocation = input;
 
+		$scope.inputLocation = "";
+
 		getWeather();
 
 
